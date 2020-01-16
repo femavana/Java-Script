@@ -7,10 +7,12 @@ New Skills:
 *Utilizar stack overflow.
 *Pseudocódigo.
 
+VAINILLA JS
+
 Frontend:
 *HTML
 *CSS
-*VAINILLA JS
+
 
 Backend:
 *MYSQL
