@@ -1,27 +1,4 @@
-# Java-Script - Incursionando en Js
-
-New Skills:
-*Leer documentacion oficial.
-*Pruebas unitarias de código.
-*Leer e interpretar bugs en el código.
-*Utilizar stack overflow.
-*Pseudocódigo.
-
-VAINILLA JS
-
-Frontend:
-*HTML
-*CSS
-
-
-Backend:
-*MYSQL
-*DOCKER
-*FRAMEWORKS
-
-IDES:
-*VSC
-
+# Java-Script - Incursionando en VAINILLA JS
 
 Bibliografía:
 -"Clean code"- Robert C. Martin.
